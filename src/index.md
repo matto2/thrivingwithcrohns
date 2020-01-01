@@ -5,4 +5,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-The personal journey of Tamra Ancona: from struggling to thriving with Crohn's disease.
+The personal journey of Tamra Ancona.
