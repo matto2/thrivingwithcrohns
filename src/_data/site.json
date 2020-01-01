@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "Thriving with Crohn's",
+  "shortDesc": "My personal journey with Crohn's, by Tamra Ancona",
+  "url": "https://thrivingwithcrohns.netlify.com/",
+  "authorEmail": "tamrapta@hotmail.com",
+  "authorHandle": "@tamrapta",
+  "authorName": "Tamra Ancona",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png"
 }
